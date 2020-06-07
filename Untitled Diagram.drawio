@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-06-07T19:46:30.698Z" agent="5.0 (X11)" etag="QbVokZduVdyBGUYG43jE" version="13.1.14" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2020-06-07T19:50:10.934Z" agent="5.0 (X11)" etag="IOg8NiB6wjBYiSVVpEvL" version="13.1.14" type="github" pages="2">
   <diagram id="VNQN-A_5LExtimgI36Wb" name="Page-1">
     <mxGraphModel dx="868" dy="432" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -228,7 +228,7 @@
         <mxCell id="h_hqW5BNzQv7MoClMS4n-6" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn0.iconfinder.com/data/icons/blockchain-classic/258/Bitcoin-128.png" vertex="1" parent="mtOxxx0Fri_VdfMQ4Gxs-1">
           <mxGeometry x="560" y="698" width="30" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="h_hqW5BNzQv7MoClMS4n-7" value="Target $9000" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="mtOxxx0Fri_VdfMQ4Gxs-1">
+        <mxCell id="h_hqW5BNzQv7MoClMS4n-7" value="Target $7000" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="mtOxxx0Fri_VdfMQ4Gxs-1">
           <mxGeometry x="440" y="678" width="210" height="20" as="geometry" />
         </mxCell>
         <mxCell id="h_hqW5BNzQv7MoClMS4n-8" value="&lt;span style=&quot;background-color: rgb(255 , 255 , 255)&quot;&gt;&lt;font style=&quot;font-size: 16px&quot; color=&quot;#007FFF&quot;&gt;&lt;b&gt;$250&lt;/b&gt;&lt;/font&gt;&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="mtOxxx0Fri_VdfMQ4Gxs-1">
@@ -252,7 +252,7 @@
         <mxCell id="h_hqW5BNzQv7MoClMS4n-14" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn0.iconfinder.com/data/icons/blockchain-classic/258/Bitcoin-128.png" vertex="1" parent="mtOxxx0Fri_VdfMQ4Gxs-1">
           <mxGeometry x="560" y="838" width="30" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="h_hqW5BNzQv7MoClMS4n-15" value="Target $9000" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="mtOxxx0Fri_VdfMQ4Gxs-1">
+        <mxCell id="h_hqW5BNzQv7MoClMS4n-15" value="Target $7000" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="mtOxxx0Fri_VdfMQ4Gxs-1">
           <mxGeometry x="440" y="818" width="210" height="20" as="geometry" />
         </mxCell>
         <mxCell id="h_hqW5BNzQv7MoClMS4n-16" value="&lt;span style=&quot;background-color: rgb(255 , 255 , 255)&quot;&gt;&lt;font style=&quot;font-size: 16px&quot; color=&quot;#007FFF&quot;&gt;&lt;b&gt;$500&lt;/b&gt;&lt;/font&gt;&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="mtOxxx0Fri_VdfMQ4Gxs-1">
@@ -273,7 +273,7 @@
         <mxCell id="h_hqW5BNzQv7MoClMS4n-21" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn0.iconfinder.com/data/icons/blockchain-classic/258/Bitcoin-128.png" vertex="1" parent="mtOxxx0Fri_VdfMQ4Gxs-1">
           <mxGeometry x="560" y="978" width="30" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="h_hqW5BNzQv7MoClMS4n-22" value="Target $9000" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="mtOxxx0Fri_VdfMQ4Gxs-1">
+        <mxCell id="h_hqW5BNzQv7MoClMS4n-22" value="Target $7000" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="mtOxxx0Fri_VdfMQ4Gxs-1">
           <mxGeometry x="440" y="958" width="210" height="20" as="geometry" />
         </mxCell>
         <mxCell id="h_hqW5BNzQv7MoClMS4n-23" value="&lt;span style=&quot;background-color: rgb(255 , 255 , 255)&quot;&gt;&lt;font style=&quot;font-size: 16px&quot; color=&quot;#007FFF&quot;&gt;&lt;b&gt;$750&lt;/b&gt;&lt;/font&gt;&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="mtOxxx0Fri_VdfMQ4Gxs-1">
@@ -294,7 +294,7 @@
         <mxCell id="h_hqW5BNzQv7MoClMS4n-28" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn0.iconfinder.com/data/icons/blockchain-classic/258/Bitcoin-128.png" vertex="1" parent="mtOxxx0Fri_VdfMQ4Gxs-1">
           <mxGeometry x="560" y="1118" width="30" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="h_hqW5BNzQv7MoClMS4n-29" value="Target $9000" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="mtOxxx0Fri_VdfMQ4Gxs-1">
+        <mxCell id="h_hqW5BNzQv7MoClMS4n-29" value="Target $7000" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="mtOxxx0Fri_VdfMQ4Gxs-1">
           <mxGeometry x="440" y="1098" width="210" height="20" as="geometry" />
         </mxCell>
         <mxCell id="h_hqW5BNzQv7MoClMS4n-30" value="&lt;span style=&quot;background-color: rgb(255 , 255 , 255)&quot;&gt;&lt;font style=&quot;font-size: 16px&quot; color=&quot;#007FFF&quot;&gt;&lt;b&gt;$1000&lt;/b&gt;&lt;/font&gt;&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="mtOxxx0Fri_VdfMQ4Gxs-1">
