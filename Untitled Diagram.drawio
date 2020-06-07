@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-06-07T16:24:58.999Z" agent="5.0 (X11)" etag="4JlkZWsUX63CinNNdBI9" version="13.1.14" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2020-06-07T16:25:33.252Z" agent="5.0 (X11)" etag="Pf7MLQR--MX7McDkX54_" version="13.1.14" type="github" pages="2">
   <diagram id="VNQN-A_5LExtimgI36Wb" name="Page-1">
     <mxGraphModel dx="868" dy="432" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -63,7 +63,7 @@
         <mxCell id="mtOxxx0Fri_VdfMQ4Gxs-7" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn0.iconfinder.com/data/icons/cryptocurrency-blockchain-fintech-free/32/currency_dollar_currency_money-128.png" vertex="1" parent="mtOxxx0Fri_VdfMQ4Gxs-1">
           <mxGeometry x="350" y="110" width="48" height="48" as="geometry" />
         </mxCell>
-        <mxCell id="mtOxxx0Fri_VdfMQ4Gxs-8" value="&lt;div&gt;BTC&lt;br&gt;&lt;/div&gt;&lt;div&gt;bc1mmmmmmmmm&lt;/div&gt;&lt;div&gt;0.00000000฿&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="mtOxxx0Fri_VdfMQ4Gxs-1">
+        <mxCell id="mtOxxx0Fri_VdfMQ4Gxs-8" value="&lt;div&gt;BTC&lt;br&gt;&lt;/div&gt;&lt;div&gt;bc1mmmmmmmmm&lt;/div&gt;&lt;div&gt;0.aaaaaaaa฿&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="mtOxxx0Fri_VdfMQ4Gxs-1">
           <mxGeometry x="560" y="118" width="200" height="90" as="geometry" />
         </mxCell>
         <mxCell id="mtOxxx0Fri_VdfMQ4Gxs-9" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn0.iconfinder.com/data/icons/blockchain-classic/258/Bitcoin-128.png" vertex="1" parent="mtOxxx0Fri_VdfMQ4Gxs-1">
@@ -84,7 +84,7 @@
         <mxCell id="mtOxxx0Fri_VdfMQ4Gxs-14" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="mtOxxx0Fri_VdfMQ4Gxs-1">
           <mxGeometry x="340" y="280" width="430" height="126" as="geometry" />
         </mxCell>
-        <mxCell id="mtOxxx0Fri_VdfMQ4Gxs-15" value="&lt;div&gt;USDT&lt;/div&gt;&lt;div&gt;0x2e2e2e2e2e2e2e2e&lt;/div&gt;&lt;div&gt;$9000&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="mtOxxx0Fri_VdfMQ4Gxs-1">
+        <mxCell id="mtOxxx0Fri_VdfMQ4Gxs-15" value="&lt;div&gt;USDT&lt;/div&gt;&lt;div&gt;0x2e2e2e2e2e2e2e2e&lt;/div&gt;&lt;div&gt;$aaaa&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="mtOxxx0Fri_VdfMQ4Gxs-1">
           <mxGeometry x="350" y="308" width="200" height="90" as="geometry" />
         </mxCell>
         <mxCell id="mtOxxx0Fri_VdfMQ4Gxs-16" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn0.iconfinder.com/data/icons/cryptocurrency-blockchain-fintech-free/32/currency_dollar_currency_money-128.png" vertex="1" parent="mtOxxx0Fri_VdfMQ4Gxs-1">
@@ -107,6 +107,9 @@
         </mxCell>
         <mxCell id="mtOxxx0Fri_VdfMQ4Gxs-22" value="Trade" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.6;dx=40;notch=0;" vertex="1" parent="mtOxxx0Fri_VdfMQ4Gxs-1">
           <mxGeometry x="516.88" y="148" width="86.25" height="37" as="geometry" />
+        </mxCell>
+        <mxCell id="mtOxxx0Fri_VdfMQ4Gxs-24" value="Trade" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.6;dx=40;flipH=1;notch=0;" vertex="1" parent="mtOxxx0Fri_VdfMQ4Gxs-1">
+          <mxGeometry x="512.5" y="335" width="85" height="36" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
